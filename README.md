@@ -8,7 +8,7 @@
 <!-- ![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif) -->
 <h1 align="center">Hi, I'm Imtiaz Hossain</h1>
 <h3 align="center">A Southeast Asian-influenced technophile and a young adult programmer.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazhossaineshan&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazhossaineshan" /> </p>
