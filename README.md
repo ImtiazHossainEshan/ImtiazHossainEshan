@@ -1,10 +1,15 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
+<!-- <div style="display: flex; justify-content: center;">
+  <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" alt="MasterHead" style="max-width: 150%; height: 50%;">
 </div>
 
+ -->
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"> -->
+
+<!-- ![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif) -->
 <h1 align="center">Hi, I'm Imtiaz Hossain</h1>
 <h3 align="center">A Southeast Asian-influenced technophile and a young adult programmer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazhossaineshan&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazhossaineshan" /> </p>
 
